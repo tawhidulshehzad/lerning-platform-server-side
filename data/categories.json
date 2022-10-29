@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "name": "Bangla"
+  },
+  {
+    "id": "02",
+    "name": "English"
+  },
+  {
+    "id": "03",
+    "name": "Math"
+  },
+  {
+    "id": "04",
+    "name": "Physics"
+  },
+  {
+    "id": "05",
+    "name": "Chemistry"
+  },
+  {
+    "id": "06",
+    "name": "Social Science"
+  },
+  {
+    "id": "07",
+    "name": "Arts"
+  },
+  {
+    "id": "08",
+    "name": "Geology"
+  }
+]
