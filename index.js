@@ -36,6 +36,14 @@ app.get("/classes", (req, res) => {
   res.send(classes);
 });
 
+// premium api call 
+app.get("/premium/:id", (req, res) => {
+  const id = req.params.id;
+  const slectedClass = classes.find((c) => c._id === id);
+  res.send(slectedClass);
+});
+
+
 // classes api call
 app.get("/classes/:id", (req, res) => {
   const id = req.params.id;
